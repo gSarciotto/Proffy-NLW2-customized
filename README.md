@@ -1,2 +1,2 @@
 # Proffy-NLW2-customized
-My rewrited version of Proffy from NLW2
+My rewritten version of Proffy from NLW2
